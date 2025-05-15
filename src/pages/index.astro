@@ -1,9 +1,21 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import "./src/styles/global.css";
+import Layout from "../layouts/Layout.astro";
+import Hero from "../components/Hero.astro";
+import About from "../components/About.astro";
+import Curriculum from "../components/Curriculum.astro";
+import Testimonials from "../components/Testimonials.astro";
+import Form from "../components/Form.astro";
+import Footer from "../components/Footer.astro";
 ---
 
-<Layout title="Bootcamp de Programación">
-	<main>
-		<h1>Bootcamp de Programación</h1>
-	</main>
+<Layout title="Curso de Astro">
+  <main>
+    <Hero />
+    <About />
+    <Curriculum />
+    <Testimonials />
+    <Form />
+  </main>
+  <Footer />
 </Layout>
