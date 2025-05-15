@@ -23,6 +23,14 @@ Este proyecto es una landing page profesional diseñada para presentar informaci
 - 🎨 Diseño moderno y responsive con Tailwind CSS
 - 📱 Experiencia móvil optimizada
 
+## Screenshots
+
+![Inicio](https://res.cloudinary.com/dvjxhlo5d/image/upload/v1747340504/Hero_mkpmpo.avif)
+![Nosotros](https://res.cloudinary.com/dvjxhlo5d/image/upload/v1747340504/nuestro-curso_hbjb5c.avif)
+![Plan de estudios](https://res.cloudinary.com/dvjxhlo5d/image/upload/v1747340505/plan-de-estudios_jghryv.avif)
+![Testimonios](https://res.cloudinary.com/dvjxhlo5d/image/upload/v1747340505/testimonios_aovgsg.avif)
+![Formulario](https://res.cloudinary.com/dvjxhlo5d/image/upload/v1747340504/form_tkr56s.avif)
+
 ## 📚 Recursos
 
 - [Documentación de Astro](https://docs.astro.build)
