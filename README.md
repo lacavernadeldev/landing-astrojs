@@ -11,13 +11,6 @@ Este proyecto es una landing page profesional diseñada para presentar informaci
 - [Astro](https://astro.build) - Framework web para sitios orientados al contenido
 - [Tailwind CSS](https://tailwindcss.com) - Framework de CSS utilitario
 
-## 📦 Instalación
-
-1. Clona este repositorio:
-   ```bash
-   git clone h
-   ```
-
 ## 🌟 Características
 
 - 🎨 Diseño moderno y responsive con Tailwind CSS
@@ -30,6 +23,27 @@ Este proyecto es una landing page profesional diseñada para presentar informaci
 ![Plan de estudios](https://res.cloudinary.com/dvjxhlo5d/image/upload/v1747340505/plan-de-estudios_jghryv.avif)
 ![Testimonios](https://res.cloudinary.com/dvjxhlo5d/image/upload/v1747340505/testimonios_aovgsg.avif)
 ![Formulario](https://res.cloudinary.com/dvjxhlo5d/image/upload/v1747340504/form_tkr56s.avif)
+
+## 📦 Instalación
+
+1. Clona este repositorio:
+
+   ```bash
+   git clone https://github.com/lacavernadeldev/landing-astrojs.git
+   ```
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd landing-astrojs
+   ```
+3. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+4. Inicia el servidor de desarrollo:
+   ```bash
+   npm run dev
+   ```
 
 ## 📚 Recursos
 
